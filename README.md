@@ -1,5 +1,9 @@
+
 <!-- Project Title -->
 <h1 align="center">🧙‍♂️ iWorkshop 📚</h1>
+
+
+
 
 <!-- Project Description -->
 <p align="center">Your magical solution for seamless workshop management</p>
@@ -71,5 +75,8 @@ We invite fellow wizards to join our quest:
 
 - Report issues or submit pull requests 🐛🧙‍♂️
 - Contribute your enchantments to make this project even more magical! 🌟
+   ![workshop3](https://github.com/chandravamsy25/workshop_managemenet/assets/90548992/a613d242-ceee-41c4-a35a-dd1b603d27b0)
+
+
 
 </p>
